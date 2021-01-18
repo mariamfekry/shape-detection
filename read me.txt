@@ -1,0 +1,1 @@
+A program in python that takes images and detect the shapes in the image and their colors using open cv library.
